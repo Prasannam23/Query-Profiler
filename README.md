@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24187948/README.md)
 # Query Profiler — PostgreSQL Query Impact Analyzer
 
 A **production-grade PostgreSQL query profiling tool** that identifies **high-impact SQL queries** by combining **execution frequency** and **latency** using accurate, time-based metrics.
