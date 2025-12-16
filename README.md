@@ -234,4 +234,4 @@ qp analyze --json
 
 ## License
 
-MIT
+[MIT](./LICENSE)
